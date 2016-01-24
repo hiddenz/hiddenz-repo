@@ -3,4 +3,4 @@ hiddenz-repo
 
 hiddenz-repository test 2
 
-Hello!
+Hello! 2
